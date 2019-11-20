@@ -8,4 +8,5 @@ git clone git@github.com:rafaelreinert/F1.git
 cd F1
 go get github.com/influxdata/influxdb1-client/v2
 go build
+./F1
 ```
