@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	client "https://github.com/influxdata/influxdb1-client/tree/master/v2"
+	client "https://github.com/influxdata/influxdb1-client/v2"
 )
 
 const (
